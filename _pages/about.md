@@ -11,8 +11,8 @@ Dr. Yuebing Liang is a Postdoctoral Associate at [SMART Centre, MIT](https://m3s
 
 Dr. Liang’s research interest lies in the intersection of articifial intelligence, human mobility and urban science. In particular, her previous research contributes to data-driven human mobility modeling using advanced machine learning techniques. Recently, her research work focuses on exploring the potential of generative artificial intelligence in shaping our future cities. 
 
-
 ======
+
 🔥🔥🔥**Dr. Yuebing Liang is currently recruiting highly motivated Ph.D./Master students (starting September 2026) who are interested in urban artificial intelligence or related areas to join her research group. Feel free to reach out via email (ybliang@mit.edu) to connect and discuss further!**  
 ======
 
