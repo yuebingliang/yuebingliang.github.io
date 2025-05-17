@@ -4,25 +4,32 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-These works provide an overview of my research. 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qIWf7ZgAAAAJ&hl=zh-CN&oi=sra).
 
-( * indicates the corresponding author.)
+Note: “*” indicates corresponding authorship, and “†” indicates co-first authorship.
 
-## Transportation Economics and Policy
-* <u>Zheng, Y.*</u>, Keith, D., Wang, S., Mi, D. & Zhao, J.  **Effects of electric vehicle charging stations on the economic vitality of local businesses**. (2024). <i> Nature Communications</i>, 15, 7437. <a href="https://www.nature.com/articles/s41467-024-51554-9"> [Paper]</a> <a href="https://www.washingtonpost.com/climate-solutions/2024/10/14/ev-charging-station-business-boost/"> [The Washington Post]</a><a href="https://www.cbc.ca/news/science/what-on-earth-ev-chargers-1.7354629"> [CBC News]</a><a href="https://news.mit.edu/2024/study-ev-charging-stations-boost-nearby-business-spending-0904"> [MIT News]</a>
+## Journal Publications
+* Qiao, Q., Ren, C., Chen, S., <u>Liang, Y.</u>, Lai, Y., Zhou, Y., Schuldenfrei, E.*, Sarkar, C., Webster, C. (2025). [Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing in Hong Kong](https://doi.org/10.1016/j.buildenv.2025.112853). <i>Building and Environment, 276, </i>112853.
+  
+* <u>Liang, Y.</u>, Zhao, Z.*, Ding, F., Tang, Y. and He, Z. (2024). [Time-dependent trip generation for bike sharing planning: A multi-task memory-augmented graph neural network](https://doi.org/10.1016/j.inffus.2024.102294). <i>Information Fusion, 106, </i>102294. 
 
-* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J. (2024). **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. <i> Nature Cities</i>, 1, 346–358. <a href="https://doi.org/10.1038/s44284-024-00057-1"> [Paper]</a> <a href="https://news.mit.edu/2024/has-remote-work-changed-how-people-travel-0409"> [MIT News]</a>
+* <u>Liang, Y.</u>, Liu, Y., Wang, X. and Zhao, Z.* (2024). [Exploring large language models for human mobility prediction under public events](https://doi.org/10.1016/j.compenvurbsys.2024.102153). <i>Computers, Environment and Urban Systems, 112, </i>102153.
 
-* Wang, S.<sup>1</sup><span>&#42;</span>, <u>Zheng, Y.<sup>1</sup></u>, Wang, G., Yabe, T., Moro, E.<span>&#42;</span> & Pentland, A. (2024). **Infrequent activities predict economic outcomes in major American cities**. <i> Nature Cities</i>, 1(4), 305-314. <a href="https://doi.org/10.1038/s44284-024-00051-7"> [Paper]</a> ( <sup>1</sup> indicates the co-first authors.)
+* <u>Liang, Y.</u>, Zhao, Z.*, Webster, C. J. (2024). [Generating sparse origin-destination flows on shared mobility networks using probabilistic graph neural networks](https://doi.org/10.1016/j.scs.2024.105777). <i>Sustainable Cities and Society, 114, </i>105777.
 
-* <u>Zheng, Y.*</u>, Meredith-Karam, P., Stewart, A., Kong, H., & Zhao, J. (2023). **Impacts of congestion pricing on ride-hailing ridership: Evidence from Chicago**.  <i> Transportation Research Part A: Policy and Practice, 170,</i> 103639. <a href="https://doi.org/10.1016/j.tra.2023.103639"> [Paper]</a>
+* <u>Liang, Y.</u>, Zhao, Z.* and Zhang, X. (2024). [Modeling taxi cruising time based on multi-source data: A case study in Shanghai](https://doi.org/10.1007/s11116-022-10348-y). <i>Transportation, 51</i>(3), 761-790.
 
-* <u>Zheng, Y.</u>, Moody, J., Wang, S., & Zhao, J*. (2021). **Measuring policy leakage of Beijing’s car ownership restriction**.  <i> Transportation Research Part A: Policy and Practice, 148,</i> 223-236. <a href="https://doi.org/10.1016/j.tra.2021.03.008"> [Paper]</a> <a href="https://news.mit.edu/2021/car-ownership-china-0608"> [MIT News]</a>
+* Feng, J.*, <u>Liang, Y.</u>, Hao, Q. and Xu, K., and Qiu, W. (2024). [Comparing effectiveness of point-of-interest data and land use data in theft crime modelling: a case study in Beijing](https://doi.org/10.1016/j.landusepol.2024.107357). <i>Land Use Policy, 147, </i>107357.
 
-* Fang, W., <u>Zheng, Y.</u>, Diao, M., & Zhao, J. (2021). **Dispersion of agglomeration through high-speed rail in China**. In <i> Urban Form and Accessibility</i> (pp. 327-357). Elsevier. <a href="https://doi.org/10.1016/B978-0-12-819822-3.00012-2"> [Paper]</a>
+* <u>Liang, Y.</u>, Huang, G. and Zhao, Z.*. (2023). [Cross-mode knowledge adaptation for bike sharing demand prediction using domain-adversarial graph neural networks](https://doi.org/10.1109/TITS.2023.3322717). <i>IEEE Transactions on Intelligent Transportation Systems, 25</i>(5), 3642-3653.
 
+* Huang, G., <u>Liang, Y.</u> and Zhao, Z.*. (2023). [Understanding market competition between transportation network companies using big data](https://doi.org/10.1016/j.tra.2023.103861). <i>Transportation Research Part A: Policy and Practice, 178, </i>103861.
 
+* <u>Liang, Y.</u>, Ding, F., Huang, G. and Zhao, Z.* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://doi.org/10.1016/j.trc.2023.104241). <i>Transportation Research Part C: Emerging Technologies, 154, </i>104241.
 
+* Zhao, Z.†* and <u>Liang, Y.</u>† (2023). [A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards](https://doi.org/10.1016/j.trc.2023.104079). <i>Transportation Research Part C: Emerging Technologies, 149, </i>104079.
+
+* <u>Liang, Y.</u>, Zhao, Z.* and Sun, L. (2022). [Memory-augmented dynamic graph convolution networks for traffic data imputation with diverse missing patterns](https://doi.org/10.1016/j.trc.2022.103826). <i>Transportation Research Part C: Emerging Technologies, 143, </i>103826.
 ## Fairness-Enhancing Machine Learning 
 
 <!-- ![text](/images/profile.png){: .align-left width="100px"; padding-right: "20px"} -->
