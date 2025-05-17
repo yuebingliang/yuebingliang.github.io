@@ -11,18 +11,16 @@ Dr. Yuebing Liang will be a Ph.D. supervisor and Tenure-Track Assistant Professo
 
 <!-- <p style="color:red">Dr. Liang is currently seeking highly motivated PhD and master students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts. </p> -->
 
+
 <div style="background-color:#ffe6e6; color:#b30000; padding:12px; border-left:6px solid #b30000; font-weight:bold; font-size:16px;">
     Dr. Liang is currently seeking highly motivated Ph.D. and Master’s students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts.
 </div>
+
 
 Dr. Liang’s research interest lies in the intersection of **Articifial Intelligence**, **Human Mobility** and **Urban Planning**: 
 * **Spatiotemporal Intelligence for Human Mobility Modeling**: Developing spatiotemporal deep learning algorithms to model and predict human mobility in complex transportation systems. Her previous work includes multimodal travel demand prediction, simulating potential demand distributions in newly planned transport networks, and analyzing irregular mobility patterns during special events.
 * **Artificial Intelligence for Urban and Transport Planning**: Applying advanced AI methods—such as generative AI and deep reinforcement learning—to inform and optimize urban and transport planning decisions. Recent projects include designing transit-oriented development strategies through reinforcement learning and enabling human-in-the-loop urban design through diffusion-based generative models.
 * **Big Data and Travel Behavior Analysis**: Leveraging large-scale urban data alongside statistical and machine learning techniques to understand individual travel decisions and their relationship with the built environment, enabling data-driven planning and policy evaluation. Recent studies include analyzing post-pandemic travel behavior patterns and exploring activity planning heterogeneity across different social groups.   
-
-
-
-
 
 
 ## News
