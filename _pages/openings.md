@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Opening"
-permalink: /opening/
+title: "Openings"
+permalink: /openings/
 ---
 
 We are currently recruiting highly motivated Ph.D./Master students and research assistants.  
