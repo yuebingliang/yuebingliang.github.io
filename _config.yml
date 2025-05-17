@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yuebing Liang"
 title_separator          : "-"
 name                     : &name "Yuebing Liang"
-description              : &description "Incoming Assistant Professor and PhD Supervisor at Tsinghua University; Postdoc at SMART Centre, MIT"
+description              : &description "Assistant Professor @ THU; Postdoc @ MIT; PhD @ HKU"
 url                      : https://yuebingliang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuebingliang/yuebingliang.github.io"
@@ -83,20 +83,20 @@ author:
   avatar           : "profile.png"
   name             : "Yuebing Liang"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming Assistant Professor and Ph.D. supervisor at Tsinghua University; Postdoc at SMART Centre, MIT"
-  location         : "Singapore"
+  bio              : "Assistant Professor @ THU; Postdoc @ MIT; PhD @ HKU"
+  location         : "Beijing, China"
   employer         : # "SMART Centre, MIT"
   uri              : # URL
   googlescholar    : "https://scholar.google.com/citations?user=qIWf7ZgAAAAJ&hl=zh-CN&oi=sra"
   email            : "ybliang@mit.edu" 
   researchgate     : "https://www.researchgate.net/profile/Yuebing-Liang"
-  github           : "yuebingliang"
+  github           : # "yuebingliang"
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2089-4606"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   scopus           : # URL
 
   # Repositories and software development
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
