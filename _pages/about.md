@@ -7,20 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yuebing Liang is a Postdoctoral Associate at [SMART Centre, MIT](https://m3s.mit.edu/our-team/yuebing-liang). She will join the Department of Urban Planning at Tsinghua University ([THU](https://www.arch.tsinghua.edu.cn/column/Departments)) as an Assistant Professor and Ph.D. supervisor in July 2025. She earned her Ph.D. degree in Urban Planning and Design (Transportation) from The University of Hong Kong ([HKU](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/)) in 2024 and was also a visiting PhD student at MIT Senseable City Lab. Before that, she received bachelor and master degrees in Architecture from Tsinghua University. 
+Dr. Yuebing Liang will be a Ph.D. supervisor and Tenure-Track Assistant Professor at the Department of Urban Planning, Tsinghua University ([THU](https://www.arch.tsinghua.edu.cn/column/Departments)) in June 2025. She is now a Postdoc Associate at [SMART Centre, MIT](https://m3s.mit.edu/our-team/yuebing-liang) under the supervision of Prof. [Zhao Jinhua](https://mobility.mit.edu/people/jinhua-zhao). Before that, she obtained her Ph.D. degree from The University of Hong Kong ([HKU](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/)), supervised by Prof. [Zhao Zhan](https://zhanzhaowf.github.io/). She was also a visiting PhD student at [MIT Senseable City Lab](https://senseable.mit.edu/), supervised by Prof. [Carlo Ratti](https://dusp.mit.edu/people/carlo-ratti) and Prof. [Paolo Santi](https://www.mmi.mit.edu/people/paolo-santi). She received her bachelor and master degrees from Tsinghua University. 
 
-Dr. Liang’s research interest lies in the intersection of articifial intelligence, human mobility and urban science. In particular, her previous research contributes to data-driven human mobility modeling using advanced machine learning techniques. Recently, her research work focuses on exploring the potential of generative artificial intelligence in shaping our future cities. 
+Dr. Liang’s research interest lies in the intersection of **Articifial Intelligence**, **Human Mobility** and **Urban Planning**: 
+* **Spatiotemporal Intelligence for Human Mobility Modeling**: Developing spatiotemporal deep learning algorithms to model and predict human mobility in complex transportation systems. Her previous work includes multimodal travel demand prediction, simulating potential demand distributions in newly planned transport networks, and analyzing irregular mobility patterns during special events.
+* **Artificial Intelligence for Urban and Transport Planning**: Applying advanced AI methods—such as generative AI and deep reinforcement learning—to inform and optimize urban and transport planning decisions. Recent projects include designing transit-oriented development strategies through reinforcement learning and enabling human-in-the-loop urban design through diffusion-based generative models.
+* **Big Data and Travel Behavior Analysis**: Leveraging large-scale urban data alongside statistical and machine learning techniques to understand individual travel decisions and their relationship with the built environment, enabling data-driven planning and policy evaluation. Recent studies include analyzing post-pandemic travel behavior patterns and exploring activity planning heterogeneity across different social groups.   
 
-<br>
+<p style="color:red">Dr. Liang is currently seeking highly motivated PhD and master students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts. </p>
 
-🔥🔥🔥**Dr. Yuebing Liang is currently recruiting highly motivated Ph.D./Master students (starting September 2026) who are interested in urban artificial intelligence or related areas to join her research group. Feel free to reach out via email (ybliang@mit.edu) to connect and discuss further!**  
+## News
+* **[2025-04]** I will be a research mentor at [MIT-UF-NU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings) hosted by Prof. Zhao Jinhua at MIT, Prof. Wang Shenhao at University of Florida, and Prof. Haris Koutsopoulos at Northeastern University!
+* **[2025-03]** Our paper "Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing buildings in Hong Kong" has been published in <i> Building and Environment <i>!
 
-<br>
 
-
-Research Interest
-======
-1. AI for Urban Planning
-1. Human Mobility Modeling
-1. Spatiotemporal Data Mining
-1. Generative Urban Design
