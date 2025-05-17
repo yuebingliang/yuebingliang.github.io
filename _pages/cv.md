@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://zhengyunhan.github.io/files/CV_YuebingLiang.pdf)
+[Download CV here](https://yuebingliang.github.io/files/CV_YuebingLiang.pdf)
 
 <!-- Education
 ======
