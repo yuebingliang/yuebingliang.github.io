@@ -9,13 +9,11 @@ redirect_from:
 
 Dr. Yuebing Liang will be a Ph.D. supervisor and Tenure-Track Assistant Professor at the Department of Urban Planning, Tsinghua University ([THU](https://www.arch.tsinghua.edu.cn/column/Departments)) in June 2025. She is now a Postdoc Associate at [SMART Centre, MIT](https://m3s.mit.edu/our-team/yuebing-liang) under the supervision of Prof. [Zhao Jinhua](https://mobility.mit.edu/people/jinhua-zhao). Before that, she obtained her Ph.D. degree from The University of Hong Kong ([HKU](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/)), supervised by Prof. [Zhao Zhan](https://zhanzhaowf.github.io/). She was also a visiting PhD student at [MIT Senseable City Lab](https://senseable.mit.edu/), supervised by Prof. [Carlo Ratti](https://dusp.mit.edu/people/carlo-ratti) and Prof. [Paolo Santi](https://www.mmi.mit.edu/people/paolo-santi). She received her bachelor and master degrees from Tsinghua University. 
 
-<!-- <p style="color:red">Dr. Liang is currently seeking highly motivated PhD and master students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts. </p> -->
+<p style="color:red">Dr. Liang is currently seeking highly motivated PhD and master students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts. </p>
 
-
-<div style="background-color:#ffe6e6; color:#b30000; padding:12px; border-left:6px solid #b30000; font-weight:bold; font-size:16px;">
+<!-- <div style="background-color:#ffe6e6; color:#b30000; padding:12px; border-left:6px solid #b30000; font-weight:bold; font-size:16px;">
     Dr. Liang is currently seeking highly motivated Ph.D. and Master’s students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts.
-</div>
-
+</div> -->
 
 Dr. Liang’s research interest lies in the intersection of **Articifial Intelligence**, **Human Mobility** and **Urban Planning**: 
 * **Spatiotemporal Intelligence for Human Mobility Modeling**: Developing spatiotemporal deep learning algorithms to model and predict human mobility in complex transportation systems. Her previous work includes multimodal travel demand prediction, simulating potential demand distributions in newly planned transport networks, and analyzing irregular mobility patterns during special events.
