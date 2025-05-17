@@ -16,6 +16,11 @@ Dr. Liang’s research interest lies in the intersection of **Articifial Intelli
 
 <p style="color:red">Dr. Liang is currently seeking highly motivated PhD and master students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts. </p>
 
+
+<!-- <div style="background-color:#ffe6e6; color:#b30000; padding:12px; border-left:6px solid #b30000; font-weight:bold; font-size:16px;">
+    Dr. Liang is currently seeking highly motivated Ph.D. and Master’s students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts.
+</div> -->
+
 ## News
 * **[2025-04]** I will be a research mentor at [MIT-UF-NU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings) hosted by Prof. Zhao Jinhua at MIT, Prof. Wang Shenhao at University of Florida, and Prof. Haris Koutsopoulos at Northeastern University!
 * **[2025-03]** Our paper "Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing buildings in Hong Kong" has been published in <i> Building and Environment <i>!
