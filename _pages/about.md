@@ -11,6 +11,8 @@ I will be a Ph.D. supervisor and Tenure-Track Assistant Professor at the Departm
 
 <p style="color:red">I am currently seeking highly motivated PhD and master students for 2026. Interested candidates are strongly encouraged to contact me via email, along with their resume and transcripts. </p>
 
+<p style="color:red">For students who have reached out, I truly appreciate your interest. Due to the large number of applications, only a limited number of shortlisted candidates will be contacted for the next steps. I sincerely apologize for not being able to respond to everyone individually.</p>
+
 <!-- <div style="background-color:#ffe6e6; color:#b30000; padding:12px; border-left:6px solid #b30000; font-weight:bold; font-size:16px;">
     Dr. Liang is currently seeking highly motivated Ph.D. and Master’s students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts.
 </div> -->
