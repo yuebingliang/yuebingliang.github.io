@@ -10,9 +10,7 @@ Dr. Yuebing Liang at Tsinghua University (THU) is seeking highly motivated Ph.D.
 * Background (type 1): major in urban planning, urban management, GIS, landscape, human geography, or architecture, but also with background and strong interests in machine learning, statistics, and other advanced technical background.
 * Background (type 2): major in transportation, civil engineering, computer science, or other engineering fields, but with strong interests in smart city applications.
 
-**Note**: For those targeting admission in Fall 2026, early contact is strongly encouraged—ideally by early June 2025. Please refer to the Department of Urban Planning under the School of Architecture at Tsinghua University for application procedures and deadlines. 
-
-**Note**: Thank you to all the students who have reached out—I truly appreciate your interest. Due to the large number of applications, only a limited number of shortlisted candidates will be contacted for the next steps. I sincerely apologize for not being able to respond to everyone individually.
+**Note**: For those targeting admission in Fall 2027, early contact and potential collaboration experience is strongly encouraged to help us know each other. 
 
 ## Research Assistant (RA)
 Part-time and full-time Research Assistant (RA) positions are available for students or junior researchers interested in gaining hands-on research experience in preparation for a future academic or research career.
