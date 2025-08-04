@@ -9,9 +9,11 @@ redirect_from:
 
 I will be a Ph.D. supervisor and Tenure-Track Assistant Professor at the Department of Urban Planning, Tsinghua University ([THU](https://www.arch.tsinghua.edu.cn/column/Departments)). I am now a Postdoc Associate at [SMART Centre, MIT](https://m3s.mit.edu/our-team/yuebing-liang) under the supervision of Prof. [Zhao Jinhua](https://mobility.mit.edu/people/jinhua-zhao). Before that, I obtained my Ph.D. degree from The University of Hong Kong ([HKU](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/)), supervised by Prof. [Zhao Zhan](https://zhanzhaowf.github.io/). I was also a visiting PhD student at [MIT Senseable City Lab](https://senseable.mit.edu/), supervised by Prof. [Carlo Ratti](https://dusp.mit.edu/people/carlo-ratti) and Prof. [Paolo Santi](https://www.mmi.mit.edu/people/paolo-santi). I received my bachelor and master degrees from Tsinghua University. 
 
-<p style="color:red">I am currently seeking highly motivated PhD and master students for 2026. Interested candidates are strongly encouraged to contact me via email, along with their resume and transcripts. </p>
+<p style="color:red">I am always seeking highly motivated students to work with. Interested candidates are strongly encouraged to contact me via email, along with their resume. For those interested in PhD/Master positions in Fall 2027, early contact and potential collaboration experience is strongly encouraged to help us know each other. </p>
 
+<!-- <div style="background-color:#ffe6e6; color:#b30000; padding:12px; border-left:6px solid #b30000; font-weight:bold; font-size:16px;">
 <p style="color:red">For students who have reached out, I truly appreciate your interest. Due to the large number of applications, only a limited number of shortlisted candidates will be contacted for the next steps. I sincerely apologize for not being able to respond to everyone individually.</p>
+</div> -->
 
 <!-- <div style="background-color:#ffe6e6; color:#b30000; padding:12px; border-left:6px solid #b30000; font-weight:bold; font-size:16px;">
     Dr. Liang is currently seeking highly motivated Ph.D. and Master’s students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts.
