@@ -19,14 +19,14 @@ I am a Ph.D. supervisor and Tenure-Track Assistant Professor at the Department o
     Dr. Liang is currently seeking highly motivated Ph.D. and Master’s students for 2026. Interested candidates are strongly encouraged to contact her via email, along with their resume and transcripts.
 </div> -->
 
-My research interest lies in the intersection of **Articifial Intelligence**, **Human Mobility** and **Urban Planning**: 
+My research interest lies in the intersection of **Artificial Intelligence**, **Human Mobility** and **Urban Planning**: 
 * **Spatiotemporal Intelligence for Human Mobility Modeling**: Developing spatiotemporal deep learning algorithms to model and predict human mobility in complex transportation systems. My previous work includes multimodal travel demand prediction, simulating potential demand distributions in newly planned transport networks, and analyzing irregular mobility patterns during special events.
 * **Artificial Intelligence for Urban and Transport Planning**: Applying advanced AI methods—such as generative AI and deep reinforcement learning—to inform and optimize urban and transport planning decisions. Recent projects include designing transit-oriented development strategies through reinforcement learning and enabling human-in-the-loop urban design through diffusion-based generative models.
 * **Big Data and Travel Behavior Analysis**: Leveraging large-scale urban data alongside statistical and machine learning techniques to understand individual travel decisions and their relationship with the built environment, enabling data-driven planning and policy evaluation. Recent studies include analyzing post-pandemic travel behavior patterns and exploring activity planning heterogeneity across different social groups.   
 
 
 ## News
-* **[2025-09]** Our paper "[Generative AI for urban planning: Synthesizing satellite imagery via diffusion models](https://doi.org/10.1016/j.compenvurbsys.2025.102339)" has been published in <i> Computers, Environment and Urban Systems <i>!
+* **[2025-09]** Our paper "Generative AI for urban planning: Synthesizing satellite imagery via diffusion models" has been published in <i> Computers, Environment and Urban Systems <i>!
 * **[2025-09]** I am deeply honored to receive the prestigious Li Ka Shing Prize for HKU Research Postgraduate Students 2023–24, awarded annually to up to four PhD theses in recognition of academic excellence.
 * **[2025-04]** I will be a research mentor at [MIT-UF-NU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings) hosted by Prof. Zhao Jinhua at MIT, Prof. Wang Shenhao at University of Florida, and Prof. Haris Koutsopoulos at Northeastern University!
 * **[2025-03]** Our paper "Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing buildings in Hong Kong" has been published in <i> Building and Environment <i>!
