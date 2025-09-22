@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be a Ph.D. supervisor and Tenure-Track Assistant Professor at the Department of Urban Planning, Tsinghua University ([THU](https://www.arch.tsinghua.edu.cn/column/Departments)). I am now a Postdoc Associate at [SMART Centre, MIT](https://m3s.mit.edu/our-team/yuebing-liang) under the supervision of Prof. [Zhao Jinhua](https://mobility.mit.edu/people/jinhua-zhao). Before that, I obtained my Ph.D. degree from The University of Hong Kong ([HKU](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/)), supervised by Prof. [Zhao Zhan](https://zhanzhaowf.github.io/). I was also a visiting PhD student at [MIT Senseable City Lab](https://senseable.mit.edu/), supervised by Prof. [Carlo Ratti](https://dusp.mit.edu/people/carlo-ratti) and Prof. [Paolo Santi](https://www.mmi.mit.edu/people/paolo-santi). I received my bachelor and master degrees from Tsinghua University. 
+I am a Ph.D. supervisor and Tenure-Track Assistant Professor at the Department of Urban Planning, Tsinghua University ([THU](https://www.arch.tsinghua.edu.cn/column/Departments)). Before that, I was a Postdoc Associate at [SMART Centre, MIT](https://m3s.mit.edu/our-team/yuebing-liang) under the supervision of Prof. [Zhao Jinhua](https://mobility.mit.edu/people/jinhua-zhao). I obtained my Ph.D. degree from The University of Hong Kong ([HKU](https://www.arch.hku.hk/departments-and-divisions/department-of-urban-planning-and-design/)), supervised by Prof. [Zhao Zhan](https://zhanzhaowf.github.io/). I was also a visiting PhD student at [MIT Senseable City Lab](https://senseable.mit.edu/), supervised by Prof. [Carlo Ratti](https://dusp.mit.edu/people/carlo-ratti) and Prof. [Paolo Santi](https://www.mmi.mit.edu/people/paolo-santi). I received my bachelor and master degrees from Tsinghua University. 
 
 <p style="color:red">I am always seeking highly motivated students to work with. Interested candidates are strongly encouraged to contact me via email, along with their resume. For those interested in PhD/Master positions in Fall 2027, early contact and potential collaboration experience is strongly encouraged to help us know each other. </p>
 
@@ -26,6 +26,8 @@ My research interest lies in the intersection of **Articifial Intelligence**, **
 
 
 ## News
+* **[2025-09]** Our paper "[Generative AI for urban planning: Synthesizing satellite imagery via diffusion models](https://doi.org/10.1016/j.compenvurbsys.2025.102339)" has been published in <i> Computers, Environment and Urban Systems <i>!
+* **[2025-09]** I am deeply honored to receive the prestigious Li Ka Shing Prize for HKU Research Postgraduate Students 2023–24, awarded annually to up to four PhD theses in recognition of academic excellence.
 * **[2025-04]** I will be a research mentor at [MIT-UF-NU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings) hosted by Prof. Zhao Jinhua at MIT, Prof. Wang Shenhao at University of Florida, and Prof. Haris Koutsopoulos at Northeastern University!
 * **[2025-03]** Our paper "Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing buildings in Hong Kong" has been published in <i> Building and Environment <i>!
 
