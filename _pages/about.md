@@ -26,9 +26,10 @@ My research interest lies in the intersection of **Artificial Intelligence**, **
 
 
 ## News
-* **[2025-09]** Our paper "Generative AI for urban planning: Synthesizing satellite imagery via diffusion models" has been published in <i> Computers, Environment and Urban Systems <i>!
+* **[2025-09]** Our paper "RouteKG: A knowledge graph-based framework for route prediction on road networks" has been accepted by <i> IEEE Transactions on Intelligent Transportation Systems <i>!
+* **[2025-09]** Our paper "Generative AI for urban planning: Synthesizing satellite imagery via diffusion models" has been accepted by <i> Computers, Environment and Urban Systems <i>!
 * **[2025-09]** I am deeply honored to receive the prestigious Li Ka Shing Prize for HKU Research Postgraduate Students 2023–24, awarded annually to up to four PhD theses in recognition of academic excellence.
 * **[2025-04]** I will be a research mentor at [MIT-UF-NU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings) hosted by Prof. Zhao Jinhua at MIT, Prof. Wang Shenhao at University of Florida, and Prof. Haris Koutsopoulos at Northeastern University!
-* **[2025-03]** Our paper "Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing buildings in Hong Kong" has been published in <i> Building and Environment <i>!
+* **[2025-03]** Our paper "Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing buildings in Hong Kong" has been accepted by <i> Building and Environment <i>!
 
 
