@@ -9,6 +9,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: “*” indicates corresponding authorship, and “†” indicates co-first authorship.
 
 ## Journal Publications
+
+* Tang, Y., Zhao, Z., Deng, W., Lei, S., **Liang, Y.**, Ma, Z. (2025). [Routekg: A knowledge graph-based framework for route prediction on road networks](https://doi.org/10.1109/TITS.2025.3615448). <i>IEEE Transactions on Intelligent Transportation Systems</i>.
+
 * Wang, Q., **Liang, Y.**, Zheng, Y., Xu, K., Zhao, J., Wang, S.* (2025). [Generative AI for urban planning: Synthesizing satellite imagery via diffusion models](https://doi.org/10.1016/j.compenvurbsys.2025.102339). <i>Computers, Environment and Urban Systems, 122,</i> 102339.
 
 * Qiao, Q., Ren, C., Chen, S., **Liang, Y.**, Lai, Y., Zhou, Y., Schuldenfrei, E.*, Sarkar, C., Webster, C. (2025). [Architectural design and building-level infections during the early stage of COVID-19: A study of 2597 public housing in Hong Kong](https://doi.org/10.1016/j.buildenv.2025.112853). <i>Building and Environment, 276, </i>112853.
