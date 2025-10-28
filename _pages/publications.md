@@ -10,6 +10,8 @@ Note: “*” indicates corresponding authorship, and “†” indicates co-fir
 
 ## Journal Publications
 
+* He, M., **Liang, Y.***,  Wang, S., Zheng, Y., Wang, Q., Zhuang, D., Tian, L., & Zhao, J. (2025). [Human-guided urban form generation using multimodal diffusion models](https://doi.org/10.1016/j.buildenv.2025.113892). <i>Building and Environment, </i>113892.
+
 * Tang, Y., Zhao, Z., Deng, W., Lei, S., **Liang, Y.**, Ma, Z. (2025). [Routekg: A knowledge graph-based framework for route prediction on road networks](https://doi.org/10.1109/TITS.2025.3615448). <i>IEEE Transactions on Intelligent Transportation Systems</i>.
 
 * Wang, Q., **Liang, Y.**, Zheng, Y., Xu, K., Zhao, J., Wang, S.* (2025). [Generative AI for urban planning: Synthesizing satellite imagery via diffusion models](https://doi.org/10.1016/j.compenvurbsys.2025.102339). <i>Computers, Environment and Urban Systems, 122,</i> 102339.
