@@ -10,6 +10,8 @@ Note: “*” indicates corresponding authorship, and “†” indicates co-fir
 
 ## Journal Publications
 
+* **Liang, Y.**, Wang, S., Yu, J., Zhao, Z., Zhao, J., Pentland, S. (2026). Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning. Travel Behaviour and Society, 43, 101171.
+
 * He, M., **Liang, Y.***,  Wang, S., Zheng, Y., Wang, Q., Zhuang, D., Tian, L., Zhao, J. (2025). [Human-guided urban form generation using multimodal diffusion models](https://doi.org/10.1016/j.buildenv.2025.113892). <i>Building and Environment, </i>113892.
 
 * Tang, Y., Zhao, Z., Deng, W., Lei, S., **Liang, Y.**, Ma, Z. (2025). [Routekg: A knowledge graph-based framework for route prediction on road networks](https://doi.org/10.1109/TITS.2025.3615448). <i>IEEE Transactions on Intelligent Transportation Systems</i>.
@@ -48,10 +50,8 @@ Note: “*” indicates corresponding authorship, and “†” indicates co-fir
   
 ## Conference Papers
 
-* **Liang, Y.**, Wang, S.*, Yu, J., Zhao, Z., Zhao, J. and Pentland, S. (2025). [Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning](https://arxiv.org/abs/2503.12761). In <i>104th Transportation Research Board Annual Meeting </i>(TRB), Washington, DC, USA. 
+* Sun, K.†, **Liang, Y.†**, He, M., Zheng, Y., Wang, S.*, Zhao, J., Pentland, S. (2026). UrbanControlNet: Reimagining Global Urban Development with Satellite Imagery. In <i>2nd Workshop on AI for Urban Planning (AI4UP) at AAAI 2026 </i>, Singapore.
 
-* Wang, Q., **Liang, Y.**, Zheng, Y., Xu, K., Zhao, J., and Wang, S.* (2025). [Generative AI for Urban Planning: Synthesizing Satellite Imagery via Diffusion Models](https://www.arxiv.org/abs/2505.08833). In <i>104th Transportation Research Board Annual Meeting </i>(TRB), Washington, DC, USA.
-  
 * Ding, F., **Liang, Y.**, Wang, Y., Tang, Y., Zhou, Y. and Zhao, Z.* (2024). [A graph deep learning model for station ridership prediction in expanding metro networks](https://doi.org/10.1145/3681780.3697247). In <i>Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI </i>(UrbanAI’24), Atlanta, GA.
 
 * **Liang, Y.**, Ding, F., Tang, Y. and Zhao, Z.* (2023). [Time-aware trip generation for bike sharing system planning](http://urban-computing.com/urbcomp2023/file/UrbComp2023_paper_5.pdf). In <i>12th ACM SIGKDD International Workshop on Urban Computing </i>(UrbComp’23), Long Beach, CA, USA.
