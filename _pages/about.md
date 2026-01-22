@@ -26,6 +26,7 @@ My research interest lies in the intersection of **Artificial Intelligence**, **
 
 
 ## News
+* **[2026-01]** My co-first authored paper "UrbanControlNet: Reimagining Global Urban Development with Satellite Imagery" has been accepted by <i> the 2nd Workshop on AI for Urban Planning (AI4UP) at AAAI 2026 <i>!
 * **[2025-10]** My first-authored paper "Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning" has been accepted by <i> Travel Behaviour and Society <i>!
 * **[2025-10]** My corresponding-authored paper "Human-Guided Urban Form Generation Using Multimodal Diffusion Models" has been accepted by <i> Building and Environment <i>!
 * **[2025-09]** Our paper "RouteKG: A knowledge graph-based framework for route prediction on road networks" has been accepted by <i> IEEE Transactions on Intelligent Transportation Systems <i>!
