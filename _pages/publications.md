@@ -10,7 +10,9 @@ Note: “*” indicates corresponding authorship, and “†” indicates co-fir
 
 ## Journal Publications
 
-* **Liang, Y.**, Wang, S., Yu, J., Zhao, Z., Zhao, J., Pentland, S. (2026). Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning. Travel Behaviour and Society, 43, 101171.
+* Shi， Z., **Liang, Y.***, Wang, C., Zheng, Y., Zhao, J. (2026). Transit-Oriented Land Use Planning for Regional Metro Networks via Deep Reinforcement Learning. Transportation Research Part A: Policy and Practice, accepted in June 2026.
+
+* **Liang, Y.**, Wang, S., Yu, J., Zhao, Z., Zhao, J., Pentland, S. (2026). Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning. <i>Travel Behaviour and Society, 43, </i>101171.
 
 * He, M., **Liang, Y.***,  Wang, S., Zheng, Y., Wang, Q., Zhuang, D., Tian, L., Zhao, J. (2025). [Human-guided urban form generation using multimodal diffusion models](https://doi.org/10.1016/j.buildenv.2025.113892). <i>Building and Environment, </i>113892.
 
