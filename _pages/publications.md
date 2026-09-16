@@ -10,6 +10,8 @@ Note: “*” indicates corresponding authorship, and “†” indicates co-fir
 
 ## Journal Publications
 
+* Wang, Y., Zhu, R., Zhou, J., Liang, Y., Qin, Z., Wu, Y., Zhou, G. (2027). [Forecasting of future electric-vehicle charging demands for unravelling city-scale carpark photovoltaic charging capacity](https://doi.org/10.1016/j.tbs.2026.101399). <i>Travel Behaviour and Society, 46, </i>101399.
+
 * Shi， Z., **Liang, Y.***, Wang, C., Zheng, Y., Zhao, J. (2026). [Transit-Oriented Land Use Planning for Regional Metro Networks via Deep Reinforcement Learning](https://doi.org/10.1016/j.tra.2026.105110). <i>Transportation Research Part A: Policy and Practice, 211, </i>105110.
 
 * **Liang, Y.**, Wang, S., Yu, J., Zhao, Z., Zhao, J., Pentland, S. (2026). [Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning](https://doi.org/10.1016/j.tbs.2025.101171). <i>Travel Behaviour and Society, 43, </i>101171.
