@@ -26,6 +26,7 @@ My research interest lies in the intersection of **Artificial Intelligence**, **
 
 
 ## News
+* **[2026-09]** Our paper "Forecasting of future electric-vehicle charging demands for unravelling city-scale carpark photovoltaic charging capacity" has been accepted by <i> Travel Behaviour and Society <i>!
 * **[2026-06]** My corresponding-authored paper "Transit-Oriented Land Use Planning for Regional Metro Networks via Deep Reinforcement Learning" has been accepted by <i> Transportation Research Part A: Policy and Practice <i>!
 * **[2026-01]** My co-first authored paper "UrbanControlNet: Reimagining Global Urban Development with Satellite Imagery" has been accepted by <i> the 2nd Workshop on AI for Urban Planning (AI4UP) at AAAI 2026 <i>!
 * **[2025-10]** My first-authored paper "Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning" has been accepted by <i> Travel Behaviour and Society <i>!
