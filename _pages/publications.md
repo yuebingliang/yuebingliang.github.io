@@ -9,8 +9,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: “*” indicates corresponding authorship, and “†” indicates co-first authorship.
 
 ## Journal Publications
+* Huang, X., Zheng, Y., Zhuang, D., **Liang, Y.**, Zhao, J. (2026). [Impacts of subway line extension on economic vitality and social cohesion: Evidence from Boston’s Green Line Extension through a double machine learning DID approach](https://doi.org/10.1016/j.tra.2026.105286). <i>Transportation Research Part A: Policy and Practice, 214, </i>105286.
 
-* Wang, Y., Zhu, R., Zhou, J., Liang, Y., Qin, Z., Wu, Y., Zhou, G. (2027). [Forecasting of future electric-vehicle charging demands for unravelling city-scale carpark photovoltaic charging capacity](https://doi.org/10.1016/j.tbs.2026.101399). <i>Travel Behaviour and Society, 46, </i>101399.
+* Wang, Y., Zhu, R., Zhou, J., **Liang, Y.**, Qin, Z., Wu, Y., Zhou, G. (2027). [Forecasting of future electric-vehicle charging demands for unravelling city-scale carpark photovoltaic charging capacity](https://doi.org/10.1016/j.tbs.2026.101399). <i>Travel Behaviour and Society, 46, </i>101399.
 
 * Shi， Z., **Liang, Y.***, Wang, C., Zheng, Y., Zhao, J. (2026). [Transit-Oriented Land Use Planning for Regional Metro Networks via Deep Reinforcement Learning](https://doi.org/10.1016/j.tra.2026.105110). <i>Transportation Research Part A: Policy and Practice, 211, </i>105110.
 
