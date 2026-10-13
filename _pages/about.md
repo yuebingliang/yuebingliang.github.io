@@ -26,6 +26,8 @@ My research interest lies in the intersection of **Artificial Intelligence**, **
 
 
 ## News
+* **[2026-10]** Our paper "US Nationwide Travel Mode Detection Using GPS Data" has been accepted by <i> Transportation <i>!
+* **[2026-10]** My co-corresponding-authored paper "Urban Visual AI for Travel Behavior Prediction: A Comparative Analysis of Satellite and Street View Imagery" has been accepted by <i> Journal of Transport and Land Use <i>!
 * **[2026-10]** Our paper "Impacts of subway line extension on economic vitality and social cohesion: Evidence from Boston’s Green Line Extension through a double machine learning DID approach" has been accepted by <i> Transportation Research Part A: Policy and Practice <i>!
 * **[2026-09]** Our paper "Forecasting of future electric-vehicle charging demands for unravelling city-scale carpark photovoltaic charging capacity" has been accepted by <i> Travel Behaviour and Society <i>!
 * **[2026-06]** My corresponding-authored paper "Transit-Oriented Land Use Planning for Regional Metro Networks via Deep Reinforcement Learning" has been accepted by <i> Transportation Research Part A: Policy and Practice <i>!
